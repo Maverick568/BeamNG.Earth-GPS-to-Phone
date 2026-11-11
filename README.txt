@@ -23,4 +23,3 @@ Stop the Android receiver to restore the phone's real location.
 The Earth mod's existing _state() accessor is read only. Future Earth changes may
 require updating this add-on. Android/mock/map-app compatibility requires a device test.
 LAN packets contain the pairing key in plain text; use a trusted local network.
-See the accompanying Polish INSTRUKCJA.md for setup and limitations.
