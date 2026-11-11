@@ -1,6 +1,6 @@
 BeamNG Earth Phone GPS add-on 1.1.0 (Android app 1.0.0, unchanged)
 
-Independent companion for BeamNG.Earth 1.6.0-beta.
+Independent companion for BeamNG.Earth 1.9.1-beta.
 Place this ZIP in the BeamNG user folder's mods directory. Do not extract it.
 No BeamNG.Earth files are replaced. No extra PC server is needed.
 
